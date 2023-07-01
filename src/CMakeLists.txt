@@ -1,0 +1,2 @@
+add_subdirectory(plugin_1)
+add_subdirectory(plugin_2)
